@@ -110,7 +110,7 @@ body {
     padding-bottom: 5%;
 }
 
-@media(min-width: 375px) {
+@media(min-width: 500px) {
     .card {
         flex-direction: row;
         flex-wrap: wrap;
